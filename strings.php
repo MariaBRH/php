@@ -1,6 +1,6 @@
 <?php
 // Define a string
-$string="Hello world";
+$string="hello grota";
 
 // Convert the string to uppercase
 $stringupper=strtoupper($string);
